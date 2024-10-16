@@ -30,8 +30,8 @@ Print the encrypted message and the decrypted message.
 End the program.
 
 ## PROGRAM:
-## DEVELOPED BY : KIRUBANITHI.S
-## REGISTER NO. : 212223220047
+## DEVELOPED BY : ESHWAR T
+## REGISTER NO. : 212223230054
 ```c
 #include <stdio.h>
 #include <string.h>
@@ -135,7 +135,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/a43cdc8d-900b-4459-a713-fdce323fef7e)
+![image](https://github.com/user-attachments/assets/31d5f369-72d0-4536-8e0b-d864f1952524)
+
 
 
 
